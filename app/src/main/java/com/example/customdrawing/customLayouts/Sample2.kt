@@ -110,7 +110,8 @@ fun Sample2(){
                                     Color(0xFF200122),
                                     Color(0xFF6f0000)
                                 )
-                            )
+                            ),
+
                         )
                     }
                     clipPath(path4, clipOp = ClipOp.Difference){
