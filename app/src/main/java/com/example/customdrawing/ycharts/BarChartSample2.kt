@@ -29,7 +29,7 @@ import co.yml.charts.ui.barchart.models.SelectionHighlightData
 @Preview(showBackground = true)
 fun BarchartWithSolidBars() {
     val maxRange = 100
-    val barData = DataUtils.getBarChartData(5, maxRange, BarChartType.VERTICAL, DataCategoryOptions())
+    val barData = DataUtils.getBarChartData(5, maxRange, BarChartType.HORIZONTAL, DataCategoryOptions())
     val yStepSize = 5
 
     val xAxisData = AxisData.Builder()
@@ -57,6 +57,7 @@ fun BarchartWithSolidBars() {
         showYAxis = true,
         showXAxis = true,
         horizontalExtraSpace = 10.dp,
+        barChartType = BarChartType.HORIZONTAL
     )
     BarChart(modifier = Modifier.height(350.dp), barChartData = barChartData)
 }

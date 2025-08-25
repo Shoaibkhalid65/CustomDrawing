@@ -95,7 +95,8 @@ fun BarChartSample3(){
             cornerRadius = 12.dp,
             isGradientEnabled = true,
 
-        )
+        ),
+        
     )
     Box(
         modifier = Modifier.fillMaxSize(),
