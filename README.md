@@ -12,7 +12,7 @@ The goal of this repo is to serve as a **learning resource** and **reference** f
 
   * Drawing lines, circles, rectangles, and arcs.
   * Working with gradients, brushes, and shaders.
-  * Understanding coordinates, transformations, and scaling.
+  * Understanding coordinates, transformations, and scaling
 
 * **Custom Shapes & UI Components**
 
