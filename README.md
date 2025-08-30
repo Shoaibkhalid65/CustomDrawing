@@ -1,6 +1,6 @@
 # 🎨 Jetpack Compose Custom Drawing & Charts
 
-This repository demonstrates **custom drawing in Jetpack Compose** using Canvas, Path, and other graphics APIs. It also showcases how to build **custom shapes, UI components, and charts** (BarChart, LineChart, etc.), along with an example integration of a **3rd-party chart library**.
+This repository demonstrates **custom drawing in Jetpack Compose** using Canvas, Path, and other graphics APIs. It also showcases how to build **custom shapes, UI components, and charts** (BarChart, LineChart, etc.), along with an example integration of a **3rd-party chart library**
 
 The goal of this repo is to serve as a **learning resource** and **reference** for developers exploring Jetpack Compose graphics, animations, and data visualization.
 
